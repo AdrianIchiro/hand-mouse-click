@@ -1,7 +1,7 @@
 # Hand Tracking Mouse menggunakan Python
 
 <p align="center">
-  <img src="example.jpg" alt="Example Hand Tracking Mouse" width="500">
+  <img src="example.png" alt="Example Hand Tracking Mouse" width="500">
 </p>
 
 ## Deskripsi
